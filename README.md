@@ -36,14 +36,14 @@ sMEG classification
 
 # How to launch ?
 
-To Train Model
+#To Train Model
 
 1.run Training/load_training_dataset.py
 2.run Training/prepare_training_dataset.py
 3.run Training/2_split_architecture/train_model.py
 
 
-To evaluate_model
+#To evaluate_model
 
 4.run Evaluation/load_evaluation_dataset.py
 5.run Evaluation/prepare_evaluation_dataset.py
